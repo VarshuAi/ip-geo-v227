@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Mock querying geolocation nodes from parsed logs. [Variant 227 using RUST with Cyber_Red theme]
+  name: ip-geo-v227 version: 1.0 type: Repository author: VarshuAi description: >   Mock querying geolocation nodes from parsed logs. [Variant 227 using RUST with Cyber_Red theme] primary_tech: Rust
 primary_tech: Rust
 ```
 
